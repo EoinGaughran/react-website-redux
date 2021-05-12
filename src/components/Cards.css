@@ -105,13 +105,13 @@
     }
   }
   
-  @media only screen and (min-width: 1024px) {
+  @media only screen and (min-width: 500px) {
     .cards__items {
       display: flex;
     }
   }
   
-  @media only screen and (max-width: 1024px) {
+  @media only screen and (max-width: 500px) {
     .cards__item {
       margin-bottom: 2rem;
     }
